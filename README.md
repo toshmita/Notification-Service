@@ -19,7 +19,7 @@ A Flask-based notification system with RabbitMQ for handling Email, SMS, and In-
 
 1. Clone the repository:
 ```bash
-git clone [your-repository-url]
+git clone [https://github.com/toshmita/Notification-Service.git]
 ```
 2. Install dependencies:
 ```bash
